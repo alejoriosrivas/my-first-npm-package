@@ -7,7 +7,7 @@ Whenever I start a new project, I don't know what to write for the first commit.
 ```npm
 npm install -g random-msg
 
-if you're psicopath
+if you are a psicopath
 npm i random-messages-platzi-npm-course@latest --save-dev
 ```
 
