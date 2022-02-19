@@ -14,6 +14,7 @@ npm i random-messages-platzi-npm-course@latest --save-dev
 # Usage
 
 ```bash
+Dont forget to use it on your Terminal
 random-msg
 ```
 
